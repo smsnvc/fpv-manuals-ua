@@ -1,0 +1,8 @@
+{
+  "label": "Батареї і зарядки",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Акумуляторні батареї і зарядки для них"
+  }
+}
